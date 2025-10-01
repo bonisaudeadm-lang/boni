@@ -1,0 +1,8 @@
+{
+  "name": "APP-Boni-Vida-e-Benefícios",
+  "description": "Planos de saúde e benefícios que cabem no seu bolso. Cuidados médicos, descontos exclusivos, e muito mais para você e sua família. Boni - vida e benefícios.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
